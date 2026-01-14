@@ -70,8 +70,22 @@ After the execution of the scripts, the following files will be generated or upd
 | :--- | :--- | :--- |
 | `outputs/task-a.jpg` | `task-a.py` | A 2x2 visualization grid showing the original RGB image and its individual B, G, and R grayscale channels. |
 | `outputs/robodk_annotated.png` | `task-b2.py` | The RoboDK snapshot annotated with geometric shapes (rectangle/circle) and text labels identifying specific parts. |
+---
+
+## Visual Deliverables
+
+### Task A: Original vs. Annotated Analysis
+This image shows the original input file and the resulting 4-way split of the Blue, Green, and Red channels.
+
+![Task A Original Image](img/1200px-Arara_Azul_no_Pantanal.jpg)
+![Task A Result](outputs/task-a.jpg)
 
 ---
+
+### Task B2: Annotated RoboDK Snapshot
+This screenshot displays the image captured from the RoboDK camera, with Part A and Part B manually identified and annotated using OpenCV shapes and labels.
+
+![Task B2 Annotated Snapshot](outputs/robodk_annotated.png)
 
 ## Lab Report: Findings & Reflections
 
