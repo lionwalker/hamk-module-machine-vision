@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠 Setup & Execution Instructions
+## Setup & Execution Instructions
 
 This repository is structured to work with the automated grading script.
 
@@ -62,7 +62,7 @@ rmdir /s /q assign1
 rm -rf assign1
 ```
 
-## 📊 Summary of Generated Deliverables
+## Summary of Generated Deliverables
 
 After the execution of the scripts, the following files will be generated or updated in your repository to verify the successful completion of the tasks:
 
